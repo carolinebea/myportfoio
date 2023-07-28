@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+li {
+  margin: 15px;
+}
