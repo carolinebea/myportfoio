@@ -11,3 +11,18 @@ ul {
 li {
   margin: 15px;
 }
+
+.contact > ul {
+  display: flex;
+  justify-content: center;
+}
+
+.Resume {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.Home {
+  margin-left: 150px;
+  margin-right: 150px;
+}

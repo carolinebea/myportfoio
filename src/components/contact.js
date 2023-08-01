@@ -4,6 +4,12 @@ const Contact = () => {
    <div className="contact" style={{width: "100%"}}>
     <h2>Contact Page</h2>
 
+    <ul>
+    <li>Phone: 317-501-1971</li>
+    <li>Email: coraline.bea@gmail.com</li>
+    <li>GitHub: github.com/carolinebea</li>
+    </ul>
+
 
 
    </div>
