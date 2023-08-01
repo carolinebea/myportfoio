@@ -8,6 +8,6 @@ We're learning to use React and I made this personal portfolio to show to potent
 
 MIT
 
-##Contributors
+## Contributors
 
 I worked with my tutor Robert Kurle. 
